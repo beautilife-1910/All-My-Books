@@ -211,4 +211,4 @@ All My Books is offered as a full free version, allowing users to access all fea
 Don't miss out on organizing your book collection! Download All My Books free today and take control of your library!
 
 ---
-**Last updated:** 2026-10-03 21:52:43 UTC
+**Last updated:** 2026-10-04 00:10:56 UTC
